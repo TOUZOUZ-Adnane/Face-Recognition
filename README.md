@@ -8,6 +8,10 @@ This is a face recognition application built with Python using OpenCV and Tkinte
 - **Register New User**: New users can register by capturing their face and providing a username.
 - **Real-time Webcam Feed**: Displays the webcam feed in real-time.
 
+## Demo
+
+Watch a demonstration of the virtual painter application on YouTube: [Face Recognition Application Demo](https://youtu.be/zIZ9de0stY0)
+
 ## Requirements
 
 - click==8.1.7
