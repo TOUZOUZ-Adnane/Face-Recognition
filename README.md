@@ -36,7 +36,7 @@ This is a face recognition application built with Python using OpenCV and Tkinte
 - On Windows:
    ```bash
    venv\Scripts\activate
-- On macOS/Linux::
+- On macOS/Linux:
    ```bash
    source venv/bin/activate
 5. Install the required Python libraries:
